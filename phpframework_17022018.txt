@@ -1,0 +1,38 @@
+cakephp	
+zend -> design platform
+laravel
+symfony
+------------------
+Git/Cli(source code management/version control system)
+1.centalized(depends on server) e.g: SVN
+2.distributed(local)(best for safety and performance) e.g: Git(git-scm.org)
+
+mkdir => make directries
+ls => list files(ls --help)
+touch => create file
+echo '~~~' > filename => create and insert data in file
+cat => read file
+nano => write file
+vi => write file(i=> insert,esc=>command mode,:wq=>save)
+rm => remove file
+
+git config --global user.name =>create account name
+git config --global user.email => create account email
+git init => create repository
+git status => check status
+git add . => add files (. => all)
+git commit -m "~~~" => commit files with message
+git commit -am "~~~" => commit modified files
+git log => check version logs(git log --pretty=format"%h %an %ar %s" => format log display)
+git checkout {file_id} => revert changes
+git checkout master => change back to latest
+git tag ~~~ (version naming format at page 106)
+git branch => name of branch 
+git branch {name} => create branch
+git checkout {branch_name} => change current branch
+git merge {branch-name} => update the files from other branch
+
+
+
+
+

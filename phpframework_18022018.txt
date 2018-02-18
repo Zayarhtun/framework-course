@@ -1,0 +1,17 @@
+central repository
+-------------------
+
+git init --bare => create empty repo
+git clone ~~ ~~~ => copy ~~ into ~~~
+git remote show origin => show original prj location
+git push origin master=> update files into origin
+git pull origin master=> update files from origin
+
+*use (--allow-unrelated-histories) when pull has error as [unrelated histories]
+
+
+github
+---------
+(README.md)
+# => header
+## => sub-header
