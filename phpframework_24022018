@@ -8,3 +8,5 @@ inject object in constructor is called dependencies injection.
 object that can build object is called factory pattern.
 
 static method cannot use $this
+
+facede pattern is like wrapper class that summerize all methods.
