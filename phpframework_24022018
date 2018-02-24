@@ -10,3 +10,5 @@ object that can build object is called factory pattern.
 static method cannot use $this
 
 facede pattern is like wrapper class that summerize all methods.
+
+methods that can run not only object but also objects collection methods is composite pattern.
