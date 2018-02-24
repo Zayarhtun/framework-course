@@ -6,3 +6,5 @@ abstract --> extends(with implementation)
 inject object in constructor is called dependencies injection.
 
 object that can build object is called factory pattern.
+
+static method cannot use $this
