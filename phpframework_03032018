@@ -5,3 +5,8 @@ Cakephp Pattern(conversion over configuration)
 controller/action/id 
 
 function name and template file name must same.
+
+Model
+-----
+Table => concern with Table
+Entity => concern with each of data in Table
