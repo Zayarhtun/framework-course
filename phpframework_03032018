@@ -3,3 +3,5 @@ composer dump-autoload => refresh project folders and files
 Cakephp Pattern(conversion over configuration)
 -----------------
 controller/action/id 
+
+function name and template file name must same.
