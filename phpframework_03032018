@@ -10,3 +10,6 @@ Model
 -----
 Table => concern with Table
 Entity => concern with each of data in Table
+
+belongsTo => tbl_2 is one of the data of tbl_1
+hasMany => tbl_1 has many data of tbl_2
